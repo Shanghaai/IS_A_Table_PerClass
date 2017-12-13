@@ -1,0 +1,1 @@
+# IS_A_Table_PerClass
